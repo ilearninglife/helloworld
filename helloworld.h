@@ -1,2 +1,2 @@
-
 int fun ();
+int test ();
